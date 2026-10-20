@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm <Your Name> 👋</h1>
+  <h1>Hi, I'm <Darsh> 👋</h1>
   <p><strong>Undergrad interested in Systems, Machine Learning, and High-Performance Algorithms</strong></p>
 
   <p>
